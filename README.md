@@ -1,4 +1,6 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------
 # MSTRgoesAWS-test-repo
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 This repo intents to bridge the knowledge gaps among business users, frontend and backend engineers, developers, and DevOps engineers.  
 The business Intelligence tool MicroStrategy(MSTR) is a modern, open enterprise platform. It provides consumer-grade BI experiences for every role, on any device, with the platform giving sub-second responses at an enterprise scale. MSTR Business Unit of Target Reply focuses on using MSTR to realize data analysis and visualizations, ultimately supporting clients in making data-driven decisions.      
