@@ -1,4 +1,4 @@
---------------------------------------------------------------------------------------------------------------------------------------------------
+
 # MSTRgoesAWS-test-repo
 
 This repo intents to bridge the knowledge gaps among business users, frontend and backend engineers, developers, and DevOps engineers.  
@@ -6,6 +6,5 @@ The business Intelligence tool MicroStrategy(MSTR) is a modern, open enterprise 
 As a lead cloud computing platform, Amazon Web Services (AWS) provides comprehensive products and services, e.g., Amazon EC2, Amazon Simple Storage Service (S3), Lambda, etc.  
 Therefore, the project MSTRgoesAWS aims to combine the most handy functionalities (or products) of MSTR, AWS (and also GitHub) together. 
 
----------------------------------------------------------------------------------------------------------------------------------------------------
 ## Starting Point
 One year ago, MSTR BU of Target Reply built a dossier in MSTR to visualize the covid-19 case development globally. 
