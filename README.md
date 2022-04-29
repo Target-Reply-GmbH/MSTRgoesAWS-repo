@@ -14,7 +14,7 @@ In 2020, MSTR BU of Target Reply built a use case to track, analyze and predict 
 
 ## Improvement Potentials 
 - Source data is not up-to-date
-- Enforcing automation in building, testing and deployment of application
+- Automate developing, testing and deployment of application
 - Bring in more flexibility and elasticity 
 - tbd
 
