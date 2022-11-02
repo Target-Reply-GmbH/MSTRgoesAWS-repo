@@ -17,6 +17,13 @@ In 2020, MSTR BU of Target Reply built a use case to track, analyze and predict 
 - Automate developing, testing and deployment of application
 - Bring in more flexibility and elasticity 
 
+## Project Scop
+The following image shows the project scop, which demonstrates four teams and tools/services they used. 
+- ADMIN
+- ETL
+- ML
+- DEVOPS
+<img width="1312" alt="ProjectScope" src="https://user-images.githubusercontent.com/102745415/199471653-982566e4-efff-4af2-9b44-7492db5349a5.png">
 
 ## Repo Structure 
 The mono-repo approach is used for this project, i.e., all codebases and files for documentation purposes are kept in this single repository (MSTRgoesAWS-test-repo).
