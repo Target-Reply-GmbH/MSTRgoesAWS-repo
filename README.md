@@ -33,3 +33,5 @@ The mono-repo approach is used in this project, i.e., all codebases and files fo
 Besides the main branch, we created three other feature branches based on the teams (ML, ETL, DevOps) so that each team manages its codebase on its own branch. Once the new feature is complete, the feature branch can be merged back into the main branch.
  
 In this repo, source code is saved in their respective folders based on file types.
+
+We welcome any questions, feedback, and comments. 
