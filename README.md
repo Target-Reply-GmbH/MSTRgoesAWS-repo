@@ -8,6 +8,7 @@ The business Intelligence tool MicroStrategy(MSTR) is a modern, open enterprise 
 As a lead cloud computing platform, Amazon Web Services (AWS) provides comprehensive products and services, e.g. Amazon EC2, Amazon Simple Storage Service (S3), Lambda, etc. Cloud computing is becoming more and more prominent thank to its benefits, such as high availability, elasticity, agility, and durability. 
 
 Therefore, the project MSTRgoesAWS aims to combine the most handy functionalities/services of MSTR and AWS together. 
+
 ![Screenshot 2022-11-02 at 16 17 52](https://user-images.githubusercontent.com/102745415/199528758-46e54dd9-3c4b-4410-bbbb-5045a945cea9.png)
 
 ## Starting Point
