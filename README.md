@@ -5,7 +5,7 @@ This is a repo of MSTRgoesAWS Project from Visual Analytics Unit, Target Reply G
 
 The business Intelligence tool MicroStrategy(MSTR) is a modern, open enterprise platform, which provides consumer-grade BI experiences for every role, on any device, with the platform giving sub-second responses at an enterprise scale. Visual Analytics Unit of Target Reply focuses on using different BI tools, especially MSTR to realize data analysis and visualizations, ultimately supporting clients in their decision making process.      
 
-As a lead cloud computing platform, Amazon Web Services (AWS) provides comprehensive products and services, e.g. Amazon EC2, Amazon Simple Storage Service (S3), Lambda, etc. Cloud computing is becoming more and more prominent thank to its benefits, such as high availability, elasticity, agility, and durability. 
+As a lead cloud computing platform, Amazon Web Services (AWS) provides comprehensive products and services, e.g. Amazon EC2, Amazon Simple Storage Service (S3), Lambda, etc. Cloud computing is becoming more and more prevalent thank to its benefits, such as high availability, elasticity, agility, and durability. 
 
 Therefore, the project MSTRgoesAWS aims to combine the most handy functionalities/services of MSTR and AWS together. 
 
